@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aziz-ahmed
 - 👀 I’m interested in machine learning and data science and products revolving around them
-- 🌱 I’m currently learning productionization of ML and DS and different algorithms
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me 'mdabdelazizahmed@gmail.com'. LinkedIn profile: www.linkedin.com/in/mohammed-aziz-ahmed
 
